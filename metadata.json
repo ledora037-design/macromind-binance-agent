@@ -1,0 +1,6 @@
+{
+  "name": "MacroMind",
+  "description": "Professional AI trading terminal combining market intelligence, multi-timeframe analysis, derivatives, risk engine, and strategy planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
